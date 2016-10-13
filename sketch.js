@@ -25,6 +25,6 @@ rect(55, 10, 45, 80);
 }
 
 function draw() {
- rect(30, 20, 55, 55);
+ rect(mouseX, mouseY, 55, 55);
 
 }
