@@ -6,6 +6,6 @@ noStroke();
 }
 
 function draw() {
-  ellipse(25, 25, 80, 80);  
+  ellipse(mouseX, mouseY, 80, 80);  
 
 }
