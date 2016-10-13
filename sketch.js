@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas( 800 , 800 );
+  createCanvas( 1000 , 1000 );
   noStroke();  
 c = color('rgb(0,0,255)');
 fill(c); 
@@ -16,12 +16,6 @@ c = color('rgba(0%, 0%, 100%, 1)');
 fill(c);
 rect(55, 55, 35, 35);  
 
-
-
-
-c = color('hsla(160, 100%, 50%, 0.5)');
-fill(c); 
-rect(55, 10, 45, 80);  
 }
 
 function draw() {
