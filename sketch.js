@@ -15,7 +15,7 @@ rect(10, 55, 35, 35);
 c = color('rgba(0%, 0%, 100%, 1)');
 fill(c);
 rect(55, 55, 35, 35);  
-color example 6 
+
 
 
 
