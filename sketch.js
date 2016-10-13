@@ -3,7 +3,6 @@ function setup() {
 }
 
 function draw() {
-  ellipse( mouseX , mouseY , 100 , 100 );
   var c = color(255, 204, 0);  
 fill(c);  
 noStroke();  
