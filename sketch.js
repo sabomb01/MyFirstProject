@@ -17,11 +17,7 @@ fill(c);
 rect(55, 55, 35, 35);  
 color example 6 
 
-var c;
-noStroke(); 
-c = color('hsl(160, 100%, 50%)');
-fill(c);  
-rect(0, 10, 45, 80); 
+
 
 c = color('hsla(160, 100%, 50%, 0.5)');
 fill(c); 
